@@ -21,7 +21,7 @@ $ pip3 install requirements.txt
 $ python3 solona_get_balance.py
 
 #Usage:
-python3 solona_get_balance.py --server [server of cluster eg: https://devnet.solana.com/] --soladdress [address of sol wallet]
+python3 solona_get_balance.py --server=[server of cluster eg: https://devnet.solana.com/] --soladdress=[address of sol wallet]
 
 
 
