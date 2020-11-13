@@ -1,3 +1,7 @@
+![Solana-Balance-Wallet](https://raw.githubusercontent.com/Anthony62039/Solana-Balance-Wallet/main/Capture.PNG)
+
+
+
 # Solana-Balance-Wallet
 A Solana tool to check balance of Salana wallet. 
 
